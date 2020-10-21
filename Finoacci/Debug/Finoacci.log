@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\gospe\source\repos\Finoacci\Finoacci\Source.cpp(96,10): error C2065: 'deposito': identificador no declarado
+C:\Users\gospe\source\repos\Finoacci\Finoacci\Source.cpp(98,14): error C2065: 'tasa': identificador no declarado
+C:\Users\gospe\source\repos\Finoacci\Finoacci\Source.cpp(108,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
